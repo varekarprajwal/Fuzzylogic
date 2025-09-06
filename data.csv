@@ -1,0 +1,401 @@
+Area,Near city,Soil fertility,Water Source,Weather condtion,Year,Price
+1,far,non fertile,no,bad,2000,15
+1,far,non fertile,no,good,2000,15.5
+1,far,non fertile,yes,bad,2000,16
+1,far,non fertile,yes,good,2000,16.5
+1,far,feritile,no,bad,2000,20
+1,far,feritile,no,good,2000,20.5
+1,far,feritile,yes,bad,2000,21
+1,far,feritile,yes,good,2000,21.5
+1,near,non fertile,no,bad,2000,17
+1,near,non fertile,no,good,2000,17.5
+1,near,non fertile,yes,bad,2000,18
+1,near,non fertile,yes,good,2000,18.5
+1,near,feritile,no,bad,2000,23
+1,near,feritile,no,good,2000,23.5
+1,near,feritile,yes,bad,2000,24
+1,near,feritile,yes,good,2000,24.5
+2,far,non fertile,no,bad,2000,30
+2,far,non fertile,no,good,2000,30.5
+2,far,non fertile,yes,bad,2000,31
+2,far,non fertile,yes,good,2000,31.5
+2,far,feritile,no,bad,2000,35
+2,far,feritile,no,good,2000,35.5
+2,far,feritile,yes,bad,2000,36
+2,far,feritile,yes,good,2000,36.5
+2,near,non fertile,no,bad,2000,33
+2,near,non fertile,no,good,2000,33.5
+2,near,non fertile,yes,bad,2000,34
+2,near,non fertile,yes,good,2000,34.5
+2,near,feritile,no,bad,2000,38
+2,near,feritile,no,good,2000,38.5
+2,near,feritile,yes,bad,2000,39
+2,near,feritile,yes,good,2000,39.5
+3,far,non fertile,no,bad,2000,45
+3,far,non fertile,no,good,2000,45.5
+3,far,non fertile,yes,bad,2000,46
+3,far,non fertile,yes,good,2000,46.5
+3,far,feritile,no,bad,2000,50
+3,far,feritile,no,good,2000,50.5
+3,far,feritile,yes,bad,2000,51
+3,far,feritile,yes,good,2000,51.5
+3,near,non fertile,no,bad,2000,48
+3,near,non fertile,no,good,2000,48.5
+3,near,non fertile,yes,bad,2000,49
+3,near,non fertile,yes,good,2000,49.5
+3,near,feritile,no,bad,2000,53
+3,near,feritile,no,good,2000,53.5
+3,near,feritile,yes,bad,2000,54
+3,near,feritile,yes,good,2000,54.5
+4,far,non fertile,no,bad,2000,60
+4,far,non fertile,no,good,2000,60.5
+4,far,non fertile,yes,bad,2000,61
+4,far,non fertile,yes,good,2000,61.5
+4,far,feritile,no,bad,2000,65
+4,far,feritile,no,good,2000,65.5
+4,far,feritile,yes,bad,2000,66
+4,far,feritile,yes,good,2000,66.5
+4,near,non fertile,no,bad,2000,63
+4,near,non fertile,no,good,2000,63.5
+4,near,non fertile,yes,bad,2000,64
+4,near,non fertile,yes,good,2000,64.5
+4,near,feritile,no,bad,2000,68
+4,near,feritile,no,good,2000,68.5
+4,near,feritile,yes,bad,2000,69
+4,near,feritile,yes,good,2000,69.5
+5,far,non fertile,no,bad,2000,75
+5,far,non fertile,no,good,2000,75.5
+5,far,non fertile,yes,bad,2000,76
+5,far,non fertile,yes,good,2000,76.5
+5,far,feritile,no,bad,2000,80
+5,far,feritile,no,good,2000,80.5
+5,far,feritile,yes,bad,2000,81
+5,far,feritile,yes,good,2000,81.5
+5,near,non fertile,no,bad,2000,78
+5,near,non fertile,no,good,2000,78.5
+5,near,non fertile,yes,bad,2000,79
+5,near,non fertile,yes,good,2000,79.5
+5,near,feritile,no,bad,2000,83
+5,near,feritile,no,good,2000,83.5
+5,near,feritile,yes,bad,2000,84
+5,near,feritile,yes,good,2000,84.5
+1,far,non fertile,no,bad,2005,20
+1,far,non fertile,no,good,2005,20.5
+1,far,non fertile,yes,bad,2005,21
+1,far,non fertile,yes,good,2005,21.5
+1,far,feritile,no,bad,2005,17
+1,far,feritile,no,good,2005,17.5
+1,far,feritile,yes,bad,2005,18
+1,far,feritile,yes,good,2005,18.5
+1,near,non fertile,no,bad,2005,23
+1,near,non fertile,no,good,2005,23.5
+1,near,non fertile,yes,bad,2005,24
+1,near,non fertile,yes,good,2005,24.5
+1,near,feritile,no,bad,2005,30
+1,near,feritile,no,good,2005,30.5
+1,near,feritile,yes,bad,2005,31
+1,near,feritile,yes,good,2005,31.5
+2,far,non fertile,no,bad,2005,35
+2,far,non fertile,no,good,2005,35.5
+2,far,non fertile,yes,bad,2005,36
+2,far,non fertile,yes,good,2005,36.5
+2,far,feritile,no,bad,2005,33
+2,far,feritile,no,good,2005,33.5
+2,far,feritile,yes,bad,2005,34
+2,far,feritile,yes,good,2005,34.5
+2,near,non fertile,no,bad,2005,38
+2,near,non fertile,no,good,2005,38.5
+2,near,non fertile,yes,bad,2005,39
+2,near,non fertile,yes,good,2005,39.5
+2,near,feritile,no,bad,2005,45
+2,near,feritile,no,good,2005,45.5
+2,near,feritile,yes,bad,2005,46
+2,near,feritile,yes,good,2005,46.5
+3,far,non fertile,no,bad,2005,50
+3,far,non fertile,no,good,2005,50.5
+3,far,non fertile,yes,bad,2005,51
+3,far,non fertile,yes,good,2005,51.5
+3,far,feritile,no,bad,2005,48
+3,far,feritile,no,good,2005,48.5
+3,far,feritile,yes,bad,2005,49
+3,far,feritile,yes,good,2005,49.5
+3,near,non fertile,no,bad,2005,53
+3,near,non fertile,no,good,2005,53.5
+3,near,non fertile,yes,bad,2005,54
+3,near,non fertile,yes,good,2005,54.5
+3,near,feritile,no,bad,2005,60
+3,near,feritile,no,good,2005,60.5
+3,near,feritile,yes,bad,2005,61
+3,near,feritile,yes,good,2005,61.5
+4,far,non fertile,no,bad,2005,65
+4,far,non fertile,no,good,2005,65.5
+4,far,non fertile,yes,bad,2005,66
+4,far,non fertile,yes,good,2005,66.5
+4,far,feritile,no,bad,2005,63
+4,far,feritile,no,good,2005,63.5
+4,far,feritile,yes,bad,2005,64
+4,far,feritile,yes,good,2005,64.5
+4,near,non fertile,no,bad,2005,68
+4,near,non fertile,no,good,2005,68.5
+4,near,non fertile,yes,bad,2005,69
+4,near,non fertile,yes,good,2005,69.5
+4,near,feritile,no,bad,2005,75
+4,near,feritile,no,good,2005,75.5
+4,near,feritile,yes,bad,2005,76
+4,near,feritile,yes,good,2005,76.5
+5,far,non fertile,no,bad,2005,80
+5,far,non fertile,no,good,2005,80.5
+5,far,non fertile,yes,bad,2005,81
+5,far,non fertile,yes,good,2005,81.5
+5,far,feritile,no,bad,2005,78
+5,far,feritile,no,good,2005,78.5
+5,far,feritile,yes,bad,2005,79
+5,far,feritile,yes,good,2005,79.5
+5,near,non fertile,no,bad,2005,83
+5,near,non fertile,no,good,2005,83.5
+5,near,non fertile,yes,bad,2005,84
+5,near,non fertile,yes,good,2005,84.5
+5,near,feritile,no,bad,2005,90
+5,near,feritile,no,good,2005,90.5
+5,near,feritile,yes,bad,2005,91
+5,near,feritile,yes,good,2005,91.5
+1,far,non fertile,no,bad,2010,17
+1,far,non fertile,no,good,2010,17.5
+1,far,non fertile,yes,bad,2010,18
+1,far,non fertile,yes,good,2010,18.5
+1,far,feritile,no,bad,2010,23
+1,far,feritile,no,good,2010,23.5
+1,far,feritile,yes,bad,2010,24
+1,far,feritile,yes,good,2010,24.5
+1,near,non fertile,no,bad,2010,30
+1,near,non fertile,no,good,2010,30.5
+1,near,non fertile,yes,bad,2010,31
+1,near,non fertile,yes,good,2010,31.5
+1,near,feritile,no,bad,2010,35
+1,near,feritile,no,good,2010,35.5
+1,near,feritile,yes,bad,2010,36
+1,near,feritile,yes,good,2010,36.5
+2,far,non fertile,no,bad,2010,33
+2,far,non fertile,no,good,2010,33.5
+2,far,non fertile,yes,bad,2010,34
+2,far,non fertile,yes,good,2010,34.5
+2,far,feritile,no,bad,2010,38
+2,far,feritile,no,good,2010,38.5
+2,far,feritile,yes,bad,2010,39
+2,far,feritile,yes,good,2010,39.5
+2,near,non fertile,no,bad,2010,45
+2,near,non fertile,no,good,2010,45.5
+2,near,non fertile,yes,bad,2010,46
+2,near,non fertile,yes,good,2010,46.5
+2,near,feritile,no,bad,2010,50
+2,near,feritile,no,good,2010,50.5
+2,near,feritile,yes,bad,2010,51
+2,near,feritile,yes,good,2010,51.5
+3,far,non fertile,no,bad,2010,48
+3,far,non fertile,no,good,2010,48.5
+3,far,non fertile,yes,bad,2010,49
+3,far,non fertile,yes,good,2010,49.5
+3,far,feritile,no,bad,2010,53
+3,far,feritile,no,good,2010,53.5
+3,far,feritile,yes,bad,2010,54
+3,far,feritile,yes,good,2010,54.5
+3,near,non fertile,no,bad,2010,60
+3,near,non fertile,no,good,2010,60.5
+3,near,non fertile,yes,bad,2010,61
+3,near,non fertile,yes,good,2010,61.5
+3,near,feritile,no,bad,2010,65
+3,near,feritile,no,good,2010,65.5
+3,near,feritile,yes,bad,2010,66
+3,near,feritile,yes,good,2010,66.5
+4,far,non fertile,no,bad,2010,63
+4,far,non fertile,no,good,2010,63.5
+4,far,non fertile,yes,bad,2010,64
+4,far,non fertile,yes,good,2010,64.5
+4,far,feritile,no,bad,2010,68
+4,far,feritile,no,good,2010,68.5
+4,far,feritile,yes,bad,2010,69
+4,far,feritile,yes,good,2010,69.5
+4,near,non fertile,no,bad,2010,75
+4,near,non fertile,no,good,2010,75.5
+4,near,non fertile,yes,bad,2010,76
+4,near,non fertile,yes,good,2010,76.5
+4,near,feritile,no,bad,2010,80
+4,near,feritile,no,good,2010,80.5
+4,near,feritile,yes,bad,2010,81
+4,near,feritile,yes,good,2010,81.5
+5,far,non fertile,no,bad,2010,78
+5,far,non fertile,no,good,2010,78.5
+5,far,non fertile,yes,bad,2010,79
+5,far,non fertile,yes,good,2010,79.5
+5,far,feritile,no,bad,2010,83
+5,far,feritile,no,good,2010,83.5
+5,far,feritile,yes,bad,2010,84
+5,far,feritile,yes,good,2010,84.5
+5,near,non fertile,no,bad,2010,90
+5,near,non fertile,no,good,2010,90.5
+5,near,non fertile,yes,bad,2010,91
+5,near,non fertile,yes,good,2010,91.5
+5,near,feritile,no,bad,2010,95
+5,near,feritile,no,good,2010,95.5
+5,near,feritile,yes,bad,2010,96
+5,near,feritile,yes,good,2010,96.5
+1,far,non fertile,no,bad,2015,23
+1,far,non fertile,no,good,2015,23.5
+1,far,non fertile,yes,bad,2015,24
+1,far,non fertile,yes,good,2015,24.5
+1,far,feritile,no,bad,2015,30
+1,far,feritile,no,good,2015,30.5
+1,far,feritile,yes,bad,2015,31
+1,far,feritile,yes,good,2015,31.5
+1,near,non fertile,no,bad,2015,35
+1,near,non fertile,no,good,2015,35.5
+1,near,non fertile,yes,bad,2015,36
+1,near,non fertile,yes,good,2015,36.5
+1,near,feritile,no,bad,2015,33
+1,near,feritile,no,good,2015,33.5
+1,near,feritile,yes,bad,2015,34
+1,near,feritile,yes,good,2015,34.5
+2,far,non fertile,no,bad,2015,38
+2,far,non fertile,no,good,2015,38.5
+2,far,non fertile,yes,bad,2015,39
+2,far,non fertile,yes,good,2015,39.5
+2,far,feritile,no,bad,2015,45
+2,far,feritile,no,good,2015,45.5
+2,far,feritile,yes,bad,2015,46
+2,far,feritile,yes,good,2015,46.5
+2,near,non fertile,no,bad,2015,50
+2,near,non fertile,no,good,2015,50.5
+2,near,non fertile,yes,bad,2015,51
+2,near,non fertile,yes,good,2015,51.5
+2,near,feritile,no,bad,2015,48
+2,near,feritile,no,good,2015,48.5
+2,near,feritile,yes,bad,2015,49
+2,near,feritile,yes,good,2015,49.5
+3,far,non fertile,no,bad,2015,53
+3,far,non fertile,no,good,2015,53.5
+3,far,non fertile,yes,bad,2015,54
+3,far,non fertile,yes,good,2015,54.5
+3,far,feritile,no,bad,2015,60
+3,far,feritile,no,good,2015,60.5
+3,far,feritile,yes,bad,2015,61
+3,far,feritile,yes,good,2015,61.5
+3,near,non fertile,no,bad,2015,65
+3,near,non fertile,no,good,2015,65.5
+3,near,non fertile,yes,bad,2015,66
+3,near,non fertile,yes,good,2015,66.5
+3,near,feritile,no,bad,2015,63
+3,near,feritile,no,good,2015,63.5
+3,near,feritile,yes,bad,2015,64
+3,near,feritile,yes,good,2015,64.5
+4,far,non fertile,no,bad,2015,68
+4,far,non fertile,no,good,2015,68.5
+4,far,non fertile,yes,bad,2015,69
+4,far,non fertile,yes,good,2015,69.5
+4,far,feritile,no,bad,2015,75
+4,far,feritile,no,good,2015,75.5
+4,far,feritile,yes,bad,2015,76
+4,far,feritile,yes,good,2015,76.5
+4,near,non fertile,no,bad,2015,80
+4,near,non fertile,no,good,2015,80.5
+4,near,non fertile,yes,bad,2015,81
+4,near,non fertile,yes,good,2015,81.5
+4,near,feritile,no,bad,2015,78
+4,near,feritile,no,good,2015,78.5
+4,near,feritile,yes,bad,2015,79
+4,near,feritile,yes,good,2015,79.5
+5,far,non fertile,no,bad,2015,83
+5,far,non fertile,no,good,2015,83.5
+5,far,non fertile,yes,bad,2015,84
+5,far,non fertile,yes,good,2015,84.5
+5,far,feritile,no,bad,2015,90
+5,far,feritile,no,good,2015,90.5
+5,far,feritile,yes,bad,2015,91
+5,far,feritile,yes,good,2015,91.5
+5,near,non fertile,no,bad,2015,95
+5,near,non fertile,no,good,2015,95.5
+5,near,non fertile,yes,bad,2015,96
+5,near,non fertile,yes,good,2015,96.5
+5,near,feritile,no,bad,2015,105
+5,near,feritile,no,good,2015,105.5
+5,near,feritile,yes,bad,2015,101
+5,near,feritile,yes,good,2015,101.5
+1,far,non fertile,no,bad,2020,30
+1,far,non fertile,no,good,2020,30.5
+1,far,non fertile,yes,bad,2020,31
+1,far,non fertile,yes,good,2020,31.5
+1,far,feritile,no,bad,2020,35
+1,far,feritile,no,good,2020,35.5
+1,far,feritile,yes,bad,2020,36
+1,far,feritile,yes,good,2020,36.5
+1,near,non fertile,no,bad,2020,33
+1,near,non fertile,no,good,2020,33.5
+1,near,non fertile,yes,bad,2020,34
+1,near,non fertile,yes,good,2020,34.5
+1,near,feritile,no,bad,2020,38
+1,near,feritile,no,good,2020,38.5
+1,near,feritile,yes,bad,2020,39
+1,near,feritile,yes,good,2020,39.5
+2,far,non fertile,no,bad,2020,45
+2,far,non fertile,no,good,2020,45.5
+2,far,non fertile,yes,bad,2020,46
+2,far,non fertile,yes,good,2020,46.5
+2,far,feritile,no,bad,2020,50
+2,far,feritile,no,good,2020,50.5
+2,far,feritile,yes,bad,2020,51
+2,far,feritile,yes,good,2020,51.5
+2,near,non fertile,no,bad,2020,48
+2,near,non fertile,no,good,2020,48.5
+2,near,non fertile,yes,bad,2020,49
+2,near,non fertile,yes,good,2020,49.5
+2,near,feritile,no,bad,2020,53
+2,near,feritile,no,good,2020,53.5
+2,near,feritile,yes,bad,2020,54
+2,near,feritile,yes,good,2020,54.5
+3,far,non fertile,no,bad,2020,60
+3,far,non fertile,no,good,2020,60.5
+3,far,non fertile,yes,bad,2020,61
+3,far,non fertile,yes,good,2020,61.5
+3,far,feritile,no,bad,2020,65
+3,far,feritile,no,good,2020,65.5
+3,far,feritile,yes,bad,2020,66
+3,far,feritile,yes,good,2020,66.5
+3,near,non fertile,no,bad,2020,63
+3,near,non fertile,no,good,2020,63.5
+3,near,non fertile,yes,bad,2020,64
+3,near,non fertile,yes,good,2020,64.5
+3,near,feritile,no,bad,2020,68
+3,near,feritile,no,good,2020,68.5
+3,near,feritile,yes,bad,2020,69
+3,near,feritile,yes,good,2020,69.5
+4,far,non fertile,no,bad,2020,75
+4,far,non fertile,no,good,2020,75.5
+4,far,non fertile,yes,bad,2020,76
+4,far,non fertile,yes,good,2020,76.5
+4,far,feritile,no,bad,2020,80
+4,far,feritile,no,good,2020,80.5
+4,far,feritile,yes,bad,2020,81
+4,far,feritile,yes,good,2020,81.5
+4,near,non fertile,no,bad,2020,78
+4,near,non fertile,no,good,2020,78.5
+4,near,non fertile,yes,bad,2020,79
+4,near,non fertile,yes,good,2020,79.5
+4,near,feritile,no,bad,2020,83
+4,near,feritile,no,good,2020,83.5
+4,near,feritile,yes,bad,2020,84
+4,near,feritile,yes,good,2020,84.5
+5,far,non fertile,no,bad,2020,90
+5,far,non fertile,no,good,2020,90.5
+5,far,non fertile,yes,bad,2020,91
+5,far,non fertile,yes,good,2020,91.5
+5,far,feritile,no,bad,2020,95
+5,far,feritile,no,good,2020,95.5
+5,far,feritile,yes,bad,2020,96
+5,far,feritile,yes,good,2020,96.5
+5,near,non fertile,no,bad,2020,105
+5,near,non fertile,no,good,2020,105.5
+5,near,non fertile,yes,bad,2020,106
+5,near,non fertile,yes,good,2020,106.5
+5,near,feritile,no,bad,2020,110
+5,near,feritile,no,good,2020,110.5
+5,near,feritile,yes,bad,2020,111.5
+5,near,feritile,yes,good,2020,120
